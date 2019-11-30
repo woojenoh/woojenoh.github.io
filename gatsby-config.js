@@ -4,7 +4,8 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `JEJE's Log`,
+    siteTitleAlt: `JEJE's Log`,
     navigation: [
       {
         title: `Blog`,
@@ -13,6 +14,16 @@ module.exports = {
       {
         title: `About`,
         slug: `/about`,
+      },
+    ],
+    externalLinks: [
+      {
+        name: `Rocket`,
+        url: `https://www.rocketpunch.com/@woojenoh`,
+      },
+      {
+        name: `Instagram`,
+        url: `https://www.instagram.com/woojenoh`,
       },
     ],
   },
