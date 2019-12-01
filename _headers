@@ -54,6 +54,13 @@
   Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
   Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-8cddaa1cb8713da47446.js>; rel=preload; as=script
+/코어-자바스크립트-특강-요약
+  Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-3f3ccbd1205e0e07c846.js>; rel=preload; as=script
 /테스트
   Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
   Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
@@ -76,6 +83,34 @@
   Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-67fbf6d26a28b0737fb7.js>; rel=preload; as=script
 /tags/novel
+  Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-67fbf6d26a28b0737fb7.js>; rel=preload; as=script
+/tags/요약
+  Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-67fbf6d26a28b0737fb7.js>; rel=preload; as=script
+/tags/자바스크립트
+  Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-67fbf6d26a28b0737fb7.js>; rel=preload; as=script
+/tags/코어-자바스크립트
+  Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-67fbf6d26a28b0737fb7.js>; rel=preload; as=script
+/tags/특강
   Link: </webpack-runtime-eb66c3416caf47407c78.js>; rel=preload; as=script
   Link: </commons-58061e4bb64345be8a74.js>; rel=preload; as=script
   Link: </app-c1f47853127fa4f18a17.js>; rel=preload; as=script
