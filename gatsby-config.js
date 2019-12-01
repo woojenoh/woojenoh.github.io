@@ -72,5 +72,6 @@ module.exports = {
         shortname: `jejelog`
       }
     },
+    `gatsby-plugin-react-helmet`
   ],
 }

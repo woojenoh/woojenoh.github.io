@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { Link } from "gatsby"
+import { Helmet } from "react-helmet"
 import Layout from "./layout"
 import Title from "./title"
 import Listing from "./listing"
@@ -24,6 +25,9 @@ const Homepage = ({ posts }: PostsProps) => {
 
   return (
     <Layout>
+      <Helmet>
+        <meta name="google-site-verification" content="hIdo6HHM8tymhgN-oypnHeqoXRCJv2ePtaSW1ZCEgAQ" />
+      </Helmet>
       <Title text="Latest Posts">
         <Link to={replaceSlashes(`/${basePath}/${blogPath}`)}>Read all posts</Link>
       </Title>
