@@ -22,8 +22,8 @@ module.exports = {
         url: `https://www.rocketpunch.com/@woojenoh`,
       },
       {
-        name: `Instagram`,
-        url: `https://www.instagram.com/woojenoh`,
+        name: `Github`,
+        url: `https://github.com/wjnoh`,
       },
     ],
   },
